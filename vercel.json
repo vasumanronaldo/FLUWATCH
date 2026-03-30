@@ -3,3 +3,4 @@
     { "source": "/api/wiki", "destination": "/api/wiki.js" }
   ]
 }
+ 
